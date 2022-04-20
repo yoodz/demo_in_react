@@ -1,0 +1,13 @@
+.content {
+    width: 200px;
+    height: 20px;
+}
+
+.warrper {
+    /* transition: all 500ms; */
+}
+
+.everyItemHeight {
+    height: 20px;
+    line-height: 20px;
+}
